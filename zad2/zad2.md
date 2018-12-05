@@ -21,7 +21,6 @@ od stgr. ψυχή **Psyche = dusza**, i λόγος **logos = słowo**, myśl, ro
 | Nurt | Przedstawiciel |
 |---|---|
 | psychoanaliza | Freud |
-|---|---|
 | behawioryzm | Watson |
 
 [portal psychologiczny](http://www.psychologia.net.pl/)
